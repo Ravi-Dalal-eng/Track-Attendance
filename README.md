@@ -15,8 +15,8 @@ Application to capture the attendance of students by their teacher
 ## Features
 
 - Add and delete subjects
-- Add and delete students and update their profiles also
-- Take attendance of every subjects 
+- Add and delete students and update their profile also
+- Take attendance of every subject 
 - Set attendance criteria
 - See past attendances of any date and any subject
 - See any particular student's attendance record
