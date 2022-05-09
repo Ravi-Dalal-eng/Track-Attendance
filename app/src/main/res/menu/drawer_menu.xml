@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/addStudentFragment"
+        android:title="@string/add_student"
+        android:icon="@drawable/add_student"
+        />
+    <item
+        android:id="@+id/studentProfileFragment"
+        android:title="@string/studentProfile"
+        android:icon="@drawable/ic_baseline_person_24"
+        />
+    <item
+       android:id="@+id/attendanceCriteriaFragment"
+        android:title="@string/attendanceCriteria"
+        android:icon="@drawable/attendance_criteria"
+        />
+    <item
+        android:id="@+id/pastAttendanceFragment"
+        android:title="@string/past_attendance"
+        android:icon="@drawable/past_attendance"
+        />
+    <item
+        android:id="@+id/studentRecordFragment"
+        android:title="@string/students_record"
+        android:icon="@drawable/student_record"
+        />
+</menu>
